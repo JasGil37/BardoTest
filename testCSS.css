@@ -1,0 +1,61 @@
+.bg{
+  background: black;
+  text-align: center;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 15px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: rgb(134, 63, 12);
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.footer-border {
+  padding: 0px;
+  margin: 0px;
+  border: 1px solid #ffc107;
+}
+
+.footer-color{
+
+}
+
+.footer-icons{
+  font-size: 3rem;
+}
+
+.footer-words{
+  font-size: 1.0rem;
+  font-color: red;
+}
+
+.my-container {
+  text-align: center;
+  border: 1px solid white;
+}
+
+.my-footer {
+  text-align: center;
+}
